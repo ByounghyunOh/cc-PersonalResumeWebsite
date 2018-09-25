@@ -11,7 +11,7 @@ namespace CP380PersonalResumeWebsite
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Page.Title = "Byounghyun Oh's Resume Website";
         }
     }
 }

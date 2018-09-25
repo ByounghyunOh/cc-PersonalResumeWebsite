@@ -18,6 +18,27 @@ textarea {
     max-width: 280px;
 }
 
+/* Ui list circle */
+.ul-circle {
+    list-style-type: circle;
+}
+
+/* Custom nav bar colour*/
+.navbar-custom-color {
+    background-color: #212F3C;
+}
+
+/* Panel heading custom*/
+.panel-info > .panel-heading {
+    color: darkslategrey;
+    font-size: large;
+    font-weight: bold;
+}
+
+/*font align*/
+.font-right {
+    text-align:right;
+}
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -29,3 +50,5 @@ textarea {
         padding: 0;
     }
 }
+
+
