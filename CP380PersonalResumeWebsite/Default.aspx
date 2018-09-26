@@ -143,7 +143,7 @@
             <div class="panel-heading">Confederation College</div>
             <div class="panel-body">
                 <strong>Diploma, Computer Programmer (2017 – 2019) | Canada</strong>
-                <ul><strong>Year 1: C#, Python, SQL, Visual Basic, Linux, HTML, CSS, JavaScript, PHP</strong>
+                <ul><strong>Year 1: SQL, C#, Visual Basic, Python, Linux, HTML, CSS, JavaScript, PHP</strong>
                     <li>Critical Thinking and Analysis with Python</li>
                     <li>OOP with .Net in C#</li>
                     <li>Event-driven Programming in Visual Basic</li>
