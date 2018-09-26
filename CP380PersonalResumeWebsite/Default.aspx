@@ -25,7 +25,7 @@
         <div class="panel panel-info">
             <div class="panel-heading">Student Computer Peer Tutor</div>
             <div class="panel-body">
-                <strong>Confederation College (Sep 2018 – Present) | Canada</strong>
+                <strong>Confederation College (Sep 2018 – Present) | Thunder Bay, Ontario</strong>
                 <ul>
                     <li>Working as IT Help Desk Assistant continually (Job roles are modified during the semester)</li> 
                     <li>Assist other student with computer problems relating to their academic coursework at the College</li> 
@@ -37,7 +37,7 @@
         <div class="panel panel-info">
             <div class="panel-heading">IT Help Desk Assistant</div>
             <div class="panel-body">
-                <strong>Confederation College (May 2018–Aug 2018) | Canada</strong>
+                <strong>Confederation College (May 2018–Aug 2018) | Thunder Bay, Ontario</strong>
                 <ul>
                     <li>Set up and configure computer work stations in a lab environment</li>
                     <li>Refactoring PowerShell Script code and create new code for automation deployment software images</li>
@@ -55,7 +55,7 @@
         <div class="panel panel-info">
             <div class="panel-heading">Sales Associate</div>
             <div class="panel-body">
-                <strong>Safeway (Mar 2017-Sep 2017) | Canada</strong>
+                <strong>Safeway (Mar 2017-Sep 2017) | Thunder Bay, Ontario</strong>
                 <ul>
                     <li>Sales Associate at Safeway</li>
                 </ul>
