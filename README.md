@@ -1,7 +1,7 @@
 # CP350 ASP.net Resume Webstie
 This website made by asp.net
 
-To view a demo, [click here](http://boh-personalresume.azurewebsites.net/)
+To view a demo, [click here](https://boh-personalresume.azurewebsites.net/)
 
 ## Feature
 * Web App service on Azure
