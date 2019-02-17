@@ -1,5 +1,5 @@
 # CP350 ASP.net Resume Webstie
-This website made by asp.net
+This project was created with ASP.Net and C#. This web site hosted by Azure Web Service.
 
 To view a demo, [click here](https://boh-personalresume.azurewebsites.net/)
 
